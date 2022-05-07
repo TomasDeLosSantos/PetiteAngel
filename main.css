@@ -58,7 +58,7 @@ header {
       border-bottom: solid 5px #512D48; }
 
 .hero {
-  background-image: url("../../assets/hero__bg.jpg");
+  background-image: url("assets/hero__bg.jpg");
   background-size: cover;
   background-position: -30%;
   position: relative;
