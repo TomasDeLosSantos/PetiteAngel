@@ -1,0 +1,60 @@
+.product{
+    // height: 100vh;
+    margin: 5rem auto;
+    &__title{
+        font-size: 3rem;
+        color: $accent;
+        text-align: center;
+        border-bottom: solid 3px $accent;
+        width: fit-content;
+        margin: auto;
+        font-weight: 300;
+        & > span{
+            font-weight: 600;
+        }
+    }
+    &__cont{
+        @include flex-row(center, space-evenly);
+        max-width: 1700px;
+        margin: 3rem auto;
+        flex-wrap: wrap;
+    }
+}
+
+.card{
+    max-width: 25%;
+    padding: 0.5rem;
+    box-shadow: 0 0 10px #b3b3b3 ;
+    &__img{
+        border-radius: 5px;
+    }
+    &__title{
+        color: $accent;
+        font-size: 2rem;
+        border-bottom: solid 1px $accent;
+        line-height: 1;
+        margin: 0.5rem auto;
+        padding-bottom: 0.5rem;
+    }
+    &__sub{
+        color: #707070;
+    }
+    &__btn{
+        @include flex-row(center, space-between);
+        margin-top: 0.5rem;
+        width: 100%;
+        background-color: $accent;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        padding: 0.5rem;
+        text-align: left;
+        cursor: pointer;
+        &:hover{
+            background-color: #381830;
+        }
+        &:active{
+            background-color: $accent;
+        }
+    }
+}

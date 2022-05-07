@@ -1,0 +1,25 @@
+.footer{
+    background-color: $accent;
+    height: 10vh;
+    &__cont{
+        @include flex-row(center, space-between);
+        max-width: 1700px;
+        margin: auto;
+        height: 100%;
+    }
+    &__title{
+        color: #fff;
+    }
+
+    &__icons{
+        @include flex-row(center, space-between);
+        // color: #fff;
+
+    }
+    &__social{
+        color: #fff;
+        text-decoration: none;
+        margin: 0.5rem;
+        font-size: 2rem;
+    }
+}
