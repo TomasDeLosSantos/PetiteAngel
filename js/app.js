@@ -37,7 +37,7 @@ document.addEventListener("click", (e) => {
 });
 
 {/* <div class="card">
-    <img class="card__img" src="../assets/acc__mango.jpg" alt="">
+    <img class="card__img" src="./assets/acc__mango.jpg" alt="">
     <h2 class="card__title">Acondicionador de mango</h2>
     <h3 class="card__sub">Acondicionador sólido</h3>
     <button href="#" class="card__btn">
