@@ -1,0 +1,42 @@
+.catalog{
+    &__title{
+        color: #fff;
+        text-align: center;
+        border-bottom: solid 3px #fff;
+        width: fit-content;
+        margin: auto;
+        font-size: 2rem;
+        &-cont{
+            background-color: $accent;
+            padding: 0.7rem 0px;
+        }
+    }
+}
+
+.filter{
+    @include flex-row(center, space-evenly);
+    max-width: 1700px;
+    border-bottom: solid 1px #707070;
+    margin: auto;
+    padding: 1rem 0;
+    &__btn{
+        color: #707070;
+        cursor: pointer;
+        border-bottom: solid 3px #fff;
+        transition: all 0.2s;
+        &:hover{
+            border-bottom: solid 3px $accent;
+        }
+    }
+}
+
+.active{
+    border-bottom: solid 3px $accent;
+}
+
+.list{
+    &__cont{
+        max-width: 1700px;
+        margin: auto;
+    }
+}

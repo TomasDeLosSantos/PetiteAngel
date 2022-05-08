@@ -51,9 +51,9 @@ header {
   .nav__item {
     margin: 0.5rem;
     text-decoration: none;
-    color: #000; }
+    color: #707070; }
     .nav__item:visited {
-      color: #000; }
+      color: #707070; }
     .nav__item:hover {
       border-bottom: solid 5px #512D48; }
 
@@ -152,7 +152,8 @@ header {
 .card {
   max-width: 25%;
   padding: 0.5rem;
-  box-shadow: 0 0 10px #b3b3b3; }
+  box-shadow: 0 0 10px #b3b3b3;
+  margin: 1rem 0.5rem 2rem 0.5rem; }
   .card__img {
     border-radius: 5px; }
   .card__title {
@@ -181,6 +182,40 @@ header {
       background-color: #381830; }
     .card__btn:active {
       background-color: #512D48; }
+
+.catalog__title {
+  color: #fff;
+  text-align: center;
+  border-bottom: solid 3px #fff;
+  width: fit-content;
+  margin: auto;
+  font-size: 2rem; }
+  .catalog__title-cont {
+    background-color: #512D48;
+    padding: 0.7rem 0px; }
+
+.filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  max-width: 1700px;
+  border-bottom: solid 1px #707070;
+  margin: auto;
+  padding: 1rem 0; }
+  .filter__btn {
+    color: #707070;
+    cursor: pointer;
+    border-bottom: solid 3px #fff;
+    transition: all 0.2s; }
+    .filter__btn:hover {
+      border-bottom: solid 3px #512D48; }
+
+.active {
+  border-bottom: solid 3px #512D48; }
+
+.list__cont {
+  max-width: 1700px;
+  margin: auto; }
 
 .footer {
   background-color: #512D48;
