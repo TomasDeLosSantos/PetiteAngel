@@ -2,16 +2,22 @@ const productList = document.getElementById("products");
 const filters = document.getElementsByClassName("filter__btn");
 
 let product;
-fetch("../js/products.json")
+
+if(productList.classList.contains("highlight")){
+    fetch("./js/products.json")
         .then(response => response.json())
         .then(data => {
             product = data;
-            if(productList.classList.contains("highlight")){
-                createList(data.filter(d => d.highlight == true));
-            } else{
-                createList(product);
-            }
+            createList(data.filter(d => d.highlight == true));
         });
+} else{
+    fetch("../js/products.json")
+        .then(response => response.json())
+        .then(data => {
+            product = data;
+            createList(product);
+        });
+}
 
 
 document.addEventListener("click", (e) => {
