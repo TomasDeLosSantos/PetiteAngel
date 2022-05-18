@@ -8,6 +8,7 @@ fetch("./js/products.json")
         product = data;
         if(productList.classList.contains("highlight")){
             createList(data.filter(d => d.highlight == true));
+            
         } else{
             createList(product);
         }

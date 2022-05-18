@@ -27,8 +27,7 @@ header {
   position: sticky;
   top: 0px;
   z-index: 100;
-  background-color: #fff;
-  padding-top: 1rem; }
+  background-color: #fff; }
 
 .nav {
   display: flex;
@@ -37,9 +36,9 @@ header {
   background-color: #fff;
   margin: auto;
   max-width: 1700px;
-  height: 6vh; }
+  height: 5rem; }
   .nav__img {
-    width: 200px; }
+    height: 5rem; }
   .nav__logo {
     font-family: "Great Vibes", sans-serif;
     font-size: 3rem;
@@ -51,11 +50,13 @@ header {
   .nav__item {
     margin: 0.5rem;
     text-decoration: none;
-    color: #707070; }
+    color: #707070;
+    border-bottom: 3px solid #fff;
+    transition: 0.2s all; }
     .nav__item:visited {
       color: #707070; }
     .nav__item:hover {
-      border-bottom: solid 5px #512D48; }
+      border-bottom: solid 3px #512D48; }
 
 .hero {
   background-image: url("assets/hero__bg.jpg");
@@ -143,39 +144,42 @@ header {
       font-weight: 600; }
   .product__cont {
     display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    max-width: 1700px;
+    align-items: start;
+    justify-content: space-between;
+    max-width: 1500px;
     margin: 3rem auto;
     flex-wrap: wrap; }
 
 .card {
-  max-width: 25%;
-  padding: 0.5rem;
-  box-shadow: 0 0 10px #b3b3b3;
+  max-width: 450px;
+  padding: 1rem;
+  box-shadow: 0 5px 11px #00000029;
   margin: 1rem 0.5rem 2rem 0.5rem; }
   .card__img {
+    width: 470px;
     border-radius: 5px; }
   .card__title {
     color: #512D48;
     font-size: 2rem;
-    border-bottom: solid 1px #512D48;
-    line-height: 1;
-    margin: 0.5rem auto;
+    border-bottom: solid 2px #512D48;
+    line-height: 1.2;
+    margin: 1rem auto 0.2rem auto;
     padding-bottom: 0.5rem; }
   .card__sub {
-    color: #707070; }
+    color: #707070;
+    font-size: 1.25rem; }
   .card__btn {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 0.5rem;
+    font-size: 1.31rem;
+    margin-top: 1rem;
     width: 100%;
     background-color: #512D48;
     border: none;
     border-radius: 5px;
     color: #fff;
-    padding: 0.5rem;
+    padding: 0.5rem 1.5rem;
     text-align: left;
     cursor: pointer; }
     .card__btn:hover {
@@ -198,7 +202,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  max-width: 1700px;
+  max-width: 1500px;
   border-bottom: solid 1px #707070;
   margin: auto;
   padding: 1rem 0; }
@@ -209,6 +213,9 @@ header {
     transition: all 0.2s; }
     .filter__btn:hover {
       border-bottom: solid 3px #512D48; }
+
+.fa-sliders {
+  color: #707070; }
 
 .active {
   border-bottom: solid 3px #512D48; }

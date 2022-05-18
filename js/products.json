@@ -1,41 +1,275 @@
 [
-    {"title": "Exfoliante Corporal de Frutos Rojos", "sub": "subtitulo", "img": "./assets/exf__fr.jpg", "highlight": true, "type": "exfol"},
-    {"title": "Acondicionador de Cacao", "sub": "subtitulo", "img": "./assets/acc__cacao.jpg", "highlight": true, "type": "acc"},
-    {"title": "Acondicionador de Coco", "sub": "subtitulo", "img": "./assets/acc__coco.jpg", "highlight": true, "type": "acc"},
-    {"title": "Acondicionador de Frutos Rojos", "sub": "highlight", "img": "./assets/acc__fr.jpg", "highlight": false, "type": "acc"},
-    {"title": "Acondicionador de Lavanda", "sub": "subtitulo", "img": "./assets/acc__lav.jpg", "highlight": false, "type": "acc"},
-    {"title": "Eco Kit de Frutos Rojos con Vela", "sub": "highlight", "img": "./assets/kit__fr-vela.jpg", "highlight": false, "type": "kit"},
-    {"title": "Jabón Facial de Carbón Activado", "sub": "highlight", "img": "./assets/jb__carbon.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Facial de Arcilla Rosa", "sub": "highlight", "img": "./assets/jb__rosa.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Facial de Miel y Avena", "sub": "highlight", "img": "./assets/jb__miel.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Corporal de Café y Canela", "sub": "highlight", "img": "./assets/jb__cafe-c.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Corporal de Menta y Spirulina", "sub": "highlight", "img": "./assets/jb__menta-c.jpg", "highlight": false, "type": "jb"},
-    {"title": "Shampoo de Romero y Aloe", "sub": "highlight", "img": "./assets/sh__romero.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Eucalipto y Menta", "sub": "highlight", "img": "./assets/sh__euc.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Frutos Rojos", "sub": "highlight", "img": "./assets/sh__fr.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Lavanda y Caléndula", "sub": "highlight", "img": "./assets/sh__lav.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Linaza", "sub": "highlight", "img": "./assets/sh__linaza.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Manzanilla y Caléndula", "sub": "highlight", "img": "./assets/sh__manza.jpg", "highlight": false, "type": "sh"},
-    {"title": "Shampoo de Nopal y Aloe", "sub": "highlight", "img": "./assets/sh__nopal.jpg", "highlight": false, "type": "sh"},
-    {"title": "Acondicionador de Mango", "sub": "highlight", "img": "./assets/acc__mango.jpg", "highlight": false, "type": "acc"},
-    {"title": "Balsamo Labial", "sub": "highlight", "img": "./assets/bal__labial.jpg", "highlight": false, "type": "bal"},
-    {"title": "Desodorante Natural de Cedro", "sub": "highlight", "img": "./assets/de__cedro.jpg", "highlight": false, "type": "des"},
-    {"title": "Desodorante Natural Cítrico", "sub": "highlight", "img": "./assets/de__citrico.jpg", "highlight": false, "type": "des"},
-    {"title": "Desodorante Natural de Lavanda y Limón", "sub": "highlight", "img": "./assets/de__lav.jpg", "highlight": false, "type": "des"},
-    {"title": "Gel Exfoliante de Frutos Rojos", "sub": "highlight", "img": "./assets/gel__fr.jpg", "highlight": false, "type": "gel"},
-    {"title": "Jabón Corporal de Café", "sub": "highlight", "img": "./assets/jb__cafe2.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Artesanal de Cúrcuma y Naranja", "sub": "highlight", "img": "./assets/jb__nar-a.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Artesanal de Caléndula", "sub": "highlight", "img": "./assets/jb__cal-a.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Artesanal de Aloe y Albahaca", "sub": "highlight", "img": "./assets/jb__alba-a.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabón Artesanal de Lavanda", "sub": "highlight", "img": "./assets/jb__lav-a.jpg", "highlight": false, "type": "jb"},
-    {"title": "Jabones Mini", "sub": "highlight", "img": "./assets/jb__mini.jpg", "highlight": false, "type": "jb"},
-    {"title": "Eco Kit - 5 Jabones Artesanales", "sub": "highlight", "img": "./assets/kit__5jb.jpg", "highlight": false, "type": "kit"},
-    {"title": "Eco Kit - 6 Jabones Mini", "sub": "highlight", "img": "./assets/kit__6mini.jpg", "highlight": false, "type": "kit"},
-    {"title": "Eco Kit - DÜO (Shampoo + Acondicionador)", "sub": "highlight", "img": "./assets/kit__duo.jpg", "highlight": false, "type": "kit"},
-    {"title": "Shampoo de Manzanilla y Avena", "sub": "highlight", "img": "./assets/sh__avena.jpg", "highlight": false, "type": "sh"},
-    {"title": "Vela de Soya - Aroma Chocolate", "sub": "highlight", "img": "./assets/v__choco.jpg", "highlight": false, "type": "vela"},
-    {"title": "Vela de Soya - Aroma Cítrico", "sub": "highlight", "img": "./assets/v__citrico.jpg", "highlight": false, "type": "vela"},
-    {"title": "Vela de Soya - Aroma Vainilla", "sub": "highlight", "img": "./assets/v__vainilla.jpg", "highlight": false, "type": "vela"},
-    {"title": "Vela Para Masajes", "sub": "highlight", "img": "./assets/v__masa.jpg", "highlight": false, "type": "vela"},
-    {"title": "Eco Kit de Frutos Rojos", "sub": "highlight", "img": "./assets/kit__fr.jpg", "highlight": false, "type": "kit"}
+    {
+        "title": "Exfoliante Corporal\nDe Frutos Rojos",
+        "sub": "Exfoliante en spray",
+        "img": "./assets/exfoliante-frutosrojosspray.webp",
+        "highlight": true,
+        "type": "exfol"
+    },
+    {
+        "title": "Acondicionador\nDe Cacao",
+        "sub": "Acondicionador Sólido",
+        "img": "./assets/acondicionador-cacao.webp",
+        "highlight": true,
+        "type": "acc"
+    },
+    {
+        "title": "Acondicionador\nDe Coco",
+        "sub": "Acondicionador sólido",
+        "img": "./assets/acondicionador-coco.webp",
+        "highlight": true,
+        "type": "acc"
+    },
+    {
+        "title": "Acondicionador\nDe Frutos Rojos",
+        "sub": "Acondicionador sólido",
+        "img": "./assets/acondicionador-frutosrojos.webp",
+        "highlight": false,
+        "type": "acc"
+    },
+    {
+        "title": "Acondicionador\nDe Lavanda",
+        "sub": "Acondicionador sólido",
+        "img": "./assets/acondicionador-lavanda.webp",
+        "highlight": false,
+        "type": "acc"
+    },
+    {
+        "title": "Eco Kit de Frutos Rojos\nCon Vela",
+        "sub": "Eco Kit",
+        "img": "./assets/ecokit-frutosrojosvela.webp",
+        "highlight": false,
+        "type": "kit"
+    },
+    {
+        "title": "Jabón Facial\nDe Carbón Activado",
+        "sub": "Jabón facial",
+        "img": "./assets/jabon-art-carbon.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Facial\nDe Arcilla Rosa",
+        "sub": "Jabón facial",
+        "img": "./assets/jabon-facial-arcillarosa.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Facial\nDe Miel y Avena",
+        "sub": "Jabón facial",
+        "img": "./assets/jabon-facial-miel.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Corporal\nDe Café y Canela",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-exf-cafecanela.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Corporal\nDe Menta y Spirulina",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-exf-mentaespirulina.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Shampoo\nDe Romero y Aloe",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-romeroaloe3.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Eucalipto y Menta",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-eucaliptomenta.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Frutos Rojos",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-frutosrojos.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Lavanda y Caléndula",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-lavandacalendula.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Linaza",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-linaza.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Manzanilla y Caléndula",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-manzanillacalendula.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Shampoo\nDe Nopal y Aloe",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-nopalaloe.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Acondicionador\nDe Mango",
+        "sub": "Acondicionador sólido",
+        "img": "./assets/acondicionador-mango.webp",
+        "highlight": false,
+        "type": "acc"
+    },
+    {
+        "title": "Balsamo Labial\nHumectante",
+        "sub": "Chocolate, Miel o Cúrcuma",
+        "img": "./assets/balsamo-labial.webp",
+        "highlight": false,
+        "type": "bal"
+    },
+    {
+        "title": "Desodorante Natural\nDe Cedro",
+        "sub": "Desodorante",
+        "img": "./assets/desodorante-cedro.webp",
+        "highlight": false,
+        "type": "des"
+    },
+    {
+        "title": "Desodorante Natural\nCítrico",
+        "sub": "Desodorante",
+        "img": "./assets/desodorante-citrico.webp",
+        "highlight": false,
+        "type": "des"
+    },
+    {
+        "title": "Desodorante Natural\nDe Lavanda y Limón",
+        "sub": "Desodorante",
+        "img": "./assets/desodorante-lavandalimon.webp",
+        "highlight": false,
+        "type": "des"
+    },
+    {
+        "title": "Gel Exfoliante\nDe Frutos Rojos",
+        "sub": "Exfoliante en gel",
+        "img": "./assets/exfoliante-frutosrojos.webp",
+        "highlight": false,
+        "type": "gel"
+    },
+    {
+        "title": "Jabón Corporal\nDe Café",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-exf-cafe.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Artesanal\nDe Cúrcuma y Naranja",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-art-curcumanaranja.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Artesanal\nDe Caléndula",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-art-calendula.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Artesanal\nDe Aloe y Albahaca",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-art-aloealbahaca.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabón Artesanal\nDe Lavanda",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-art-lavanda.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "Jabones Mini\n35gr",
+        "sub": "Jabón corporal",
+        "img": "./assets/jabon-mini.webp",
+        "highlight": false,
+        "type": "jb"
+    },
+    {
+        "title": "5 Jabones\nArtesanales",
+        "sub": "Eco Kit",
+        "img": "./assets/ecokit-5piezas.webp",
+        "highlight": false,
+        "type": "kit"
+    },
+    {
+        "title": "6 Jabones\nMini",
+        "sub": "Eco Kit",
+        "img": "./assets/ecokit-6mini.webp",
+        "highlight": false,
+        "type": "kit"
+    },
+    {
+        "title": "DÜO\nShampoo + Acondicionador",
+        "sub": "Eco Kit",
+        "img": "./assets/ecokit-duo.webp",
+        "highlight": false,
+        "type": "kit"
+    },
+    {
+        "title": "Shampoo\nDe Manzanilla y Avena",
+        "sub": "Shampoo sólido",
+        "img": "./assets/shampoo-manzanillaavena.webp",
+        "highlight": false,
+        "type": "sh"
+    },
+    {
+        "title": "Vela de Soya\nAroma Chocolate",
+        "sub": "Vela",
+        "img": "./assets/vela-chocolate.webp",
+        "highlight": false,
+        "type": "vela"
+    },
+    {
+        "title": "Vela de Soya\nAroma Cítrico",
+        "sub": "Vela",
+        "img": "./assets/vela-citrico.webp",
+        "highlight": false,
+        "type": "vela"
+    },
+    {
+        "title": "Vela de Soya\nAroma Vainilla",
+        "sub": "Vela",
+        "img": "./assets/vela-vainilla.webp",
+        "highlight": false,
+        "type": "vela"
+    },
+    {
+        "title": "Vela\nPara Masajes",
+        "sub": "Vela",
+        "img": "./assets/vela-masajes.webp",
+        "highlight": false,
+        "type": "vela"
+    },
+    {
+        "title": "Eco Kit\nDe Frutos Rojos",
+        "sub": "Eco Kit",
+        "img": "./assets/ecokit-frutosrojos.webp",
+        "highlight": false,
+        "type": "kit"
+    }
 ]

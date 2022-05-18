@@ -14,41 +14,44 @@
         }
     }
     &__cont{
-        @include flex-row(center, space-evenly);
-        max-width: 1700px;
+        @include flex-row(start, space-between);
+        max-width: 1500px;
         margin: 3rem auto;
         flex-wrap: wrap;
     }
 }
 
 .card{
-    max-width: 25%;
-    padding: 0.5rem;
-    box-shadow: 0 0 10px #b3b3b3;
+    max-width: 450px;
+    padding: 1rem;
+    box-shadow: 0 5px 11px #00000029;
     margin: 1rem 0.5rem 2rem 0.5rem;
     &__img{
+        width: 470px;
         border-radius: 5px;
     }
     &__title{
         color: $accent;
         font-size: 2rem;
-        border-bottom: solid 1px $accent;
-        line-height: 1;
-        margin: 0.5rem auto;
+        border-bottom: solid 2px $accent;
+        line-height: 1.2;
+        margin: 1rem auto 0.2rem auto;
         padding-bottom: 0.5rem;
     }
     &__sub{
         color: #707070;
+        font-size: 1.25rem;
     }
     &__btn{
         @include flex-row(center, space-between);
-        margin-top: 0.5rem;
+        font-size: 1.31rem;
+        margin-top: 1rem;
         width: 100%;
         background-color: $accent;
         border: none;
         border-radius: 5px;
         color: #fff;
-        padding: 0.5rem;
+        padding: 0.5rem 1.5rem;
         text-align: left;
         cursor: pointer;
         &:hover{

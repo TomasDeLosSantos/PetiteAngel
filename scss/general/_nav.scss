@@ -3,16 +3,16 @@ header{
     top: 0px;
     z-index: 100;
     background-color: #fff;
-    padding-top: 1rem;
+    // padding-top: 1rem;
 }
 .nav{
     @include flex-row(center, space-between);
     background-color: #fff;
     margin: auto;
     max-width: 1700px;
-    height: 6vh;
+    height: 5rem;
     &__img{
-        width: 200px;
+        height: 5rem;
     }
     &__logo{
         font-family: "Great Vibes", sans-serif;
@@ -28,11 +28,13 @@ header{
         margin: 0.5rem;
         text-decoration: none;
         color: #707070;
+        border-bottom: 3px solid #fff;
+        transition: 0.2s all;
         &:visited{
             color: #707070;
         }
         &:hover{
-            border-bottom: solid 5px $accent;
+            border-bottom: solid 3px $accent;
         }
     }
 
