@@ -1,0 +1,253 @@
+@media screen and (max-width: 1300px) {
+    .nav{
+        margin: auto 2rem;
+    }
+
+    .about{
+        &__title{
+            font-size: 2.5rem;
+        }
+        &__para{
+            font-size: 1.6rem;
+        }
+    }
+
+    .card{
+        max-width: 350px;
+        &__title{
+            font-size: 1.5rem;
+        }
+    }
+    .product{
+        &__cont{
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        }
+    }
+
+    .footer{
+        padding: 0rem 2rem;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .hero{
+        &__title{
+            font-size: 3rem;
+        }
+    }
+    .about{
+        &__title{
+            font-size: 2rem;
+        }
+        &__para{
+            font-size: 1.3rem;
+        }
+    }
+
+    .card{
+        max-width: 300px;
+        &__title{
+            font-size: 1.3rem;
+        }
+        &__sub{
+            font-size: 1rem;
+        }
+        &__btn{
+            font-size: 1.2rem;
+        }
+    }
+    .product{
+        &__cont{
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        }
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .hero{
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        &__title{
+            margin: auto 5rem;
+        }
+    }
+
+    .about{
+        @include flex-col(center, center);
+        text-align: center;
+        padding: 0px;
+        &__info{
+            width: 80%;
+        }
+        &__title{
+            font-size: 3rem;
+        }
+        &__para{
+            font-size: 1.8rem;
+        }
+        &__img{
+            display: none;
+        }
+    }
+
+    .product{
+        &__title{
+            max-width: 80%;
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .nav{
+        display: none;
+    }
+    .mininav{
+        @include flex-row(center, space-between);
+        font-size: 1.8rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        width: 100%;
+        position: relative;
+        z-index: 100;
+
+        &__item{
+            margin: auto 1rem;
+            color: $accent;
+        }
+
+        &__item.active{
+            background-color: $accent;
+            color: #fff;
+            border: none;
+            padding: 0.5rem 0.7rem;
+            border-top-left-radius: 5rem;
+            border-top-right-radius: 5rem;
+            position: relative;
+        }
+        &__item.active::after{
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 20%;
+            background-color: $accent;
+            bottom: -10px;
+            left: 0;
+        }
+    }
+
+    .hero{
+        background-position: left;
+        &__cont{
+            width: 100%;
+            @include flex-col(center, center);
+        }
+        &__title{
+            font-size: 2.5rem;
+        }
+    }
+
+    .about{
+        height: 80vh;
+        &__title{
+            font-size: 2rem;
+        }
+        &__para{
+            font-size: 1.5rem;
+        }
+    }
+
+    .product{
+        &__title{
+            font-size: 2.5rem;
+        }
+    }
+
+    .footer{
+        display: block;
+        height: 20vh;
+        text-align: center;
+        // height: 15vh;
+        // width: 100%;
+        // font-size: 0.8rem;
+        &__title{
+            margin-top: 0.5rem;
+            font-size: 1rem;
+        }
+        &__cont{
+            
+            @include flex-col(center, center);
+        }
+        &__icons{
+            font-size: 0.8rem;
+        }
+    }
+
+    .catalog{
+        &__title-cont{
+            display: none;
+        }
+    }
+
+    .minicatalog{
+    
+        &__title{
+            margin: 0;
+            border: none;
+            &-cont{
+                @include flex-row(center, space-between);
+                position: relative;
+                z-index: 10;
+                font-size: 1.5rem;
+                padding: 1rem;
+            }
+        }
+    }
+    
+
+    .filter{
+        display: none;
+    }
+    main{
+        position: relative;
+    }
+    .minifilter{
+        @include flex-col(start, start);
+        position: absolute;
+        background-color: #D8D8D8;
+        z-index: 1;
+        top: -80vh;
+        width: 100%;
+        height: 80vh;
+        padding-top: 2rem;
+        transition: 0.5s all;
+        &.active{
+            top: 80px;
+        }
+        &__btn{
+            font-size: 1.25rem;
+            margin: 0.5rem auto;
+            width: 80%;
+            text-align: center;
+            padding: 0.5rem;
+
+            &.active{
+                background-color: $accent;
+                color: #fff;
+            }
+        }
+        &__menu{
+            color: #D8D8D8;
+            cursor: pointer;
+            transition: 0.2s all;
+            padding: 1rem;
+            position: relative;
+            &.active{
+                background-color: #D8D8D8;
+                color: $accent;
+                border-radius: 100%;
+            }
+        }
+    }
+
+}

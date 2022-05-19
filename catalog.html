@@ -12,11 +12,20 @@
 <body>
     <header>
         <nav class="nav">
-            <img class="nav__img" src="./assets/imagenes/logo.png" alt="">
+            <img class="nav__img" src="./assets/logo.png" alt="">
             <section class="nav__list">
                 <a class="nav__item" href="./index.html">INICIO</a>
                 <a class="nav__item active" href="#">CATÁLOGO</a>
                 <a class="nav__item" href="#">¡HABLEMOS!</a>
+            </section>
+        </nav>
+
+        <nav class="mininav">
+            <img class="mininav__img" src="./assets/logo.png" alt="">
+            <section class="nav__list">
+                <a class="mininav__item" href="index.html"><i class="fa-solid fa-house"></i></a>
+                <a class="mininav__item active" href="#"><i class="fa-solid fa-bag-shopping"></i></a>
+                <!-- <a class="mininav__item" href="#">¡HABLEMOS!</a> -->
             </section>
         </nav>
     </header>
@@ -36,12 +45,26 @@
             <h4 class="filter__btn kit">Eco Kits</h4>
         </section>
 
+        <section class="minicatalog__title-cont" >
+            <h1 class="minicatalog__title">Catalogo</h1>
+
+            <i class="fa-solid fa-sliders minifilter__menu"></i>
+
+        </section>
+
+        <section class="minifilter" id="filter">
+            <h4 class="minifilter__btn all active">Todos</h4>
+            <h4 class="minifilter__btn acc">Acondicionadores</h4>
+            <h4 class="minifilter__btn sh">Shampoos</h4>
+            <h4 class="minifilter__btn jb">Jabones</h4>
+            <h4 class="minifilter__btn vela">Velas y Extras</h4>
+            <h4 class="minifilter__btn kit">Eco Kits</h4>
+        </section>
+
         <article class="product__cont" id="products">
             
 
         </article>
-        <!-- <section class="list__cont">
-        </section> -->
     </main>
 
     <footer class="footer">

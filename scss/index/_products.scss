@@ -13,11 +13,17 @@
             font-weight: 600;
         }
     }
+    // &__cont{
+    //     @include flex-row(start, space-between);
+    //     max-width: 1500px;
+    //     margin: 3rem auto;
+    //     flex-wrap: wrap;
+    // }
     &__cont{
-        @include flex-row(start, space-between);
         max-width: 1500px;
         margin: 3rem auto;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
     }
 }
 
@@ -25,7 +31,8 @@
     max-width: 450px;
     padding: 1rem;
     box-shadow: 0 5px 11px #00000029;
-    margin: 1rem 0.5rem 2rem 0.5rem;
+    margin: 1rem auto 2rem auto;
+
     &__img{
         width: 470px;
         border-radius: 5px;

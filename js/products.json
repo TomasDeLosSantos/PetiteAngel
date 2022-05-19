@@ -112,7 +112,7 @@
         "type": "sh"
     },
     {
-        "title": "Shampoo\nDe Manzanilla y Caléndula",
+        "title": "Shampoo De\nManzanilla y Caléndula",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-manzanillacalendula.webp",
         "highlight": false,
@@ -224,7 +224,7 @@
         "type": "kit"
     },
     {
-        "title": "DÜO\nShampoo + Acondicionador",
+        "title": "DÜO Shampoo +\nAcondicionador",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-duo.webp",
         "highlight": false,

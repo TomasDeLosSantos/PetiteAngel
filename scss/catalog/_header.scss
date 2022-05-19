@@ -13,6 +13,22 @@
     }
 }
 
+.minicatalog{
+    &__title{
+        color: #fff;
+        text-align: center;
+        border-bottom: solid 3px #fff;
+        width: fit-content;
+        margin: auto;
+        font-size: 2rem;
+        &-cont{
+            display: none;
+            background-color: $accent;
+            padding: 0.7rem 0px;
+        }
+    }
+}
+
 .filter{
     @include flex-row(center, space-evenly);
     max-width: 1500px;
@@ -27,6 +43,19 @@
         &:hover{
             border-bottom: solid 3px $accent;
         }
+    }
+}
+
+.minifilter{
+    display: none;
+    &__btn{
+        color: #707070;
+        cursor: pointer;
+        border-bottom: solid 1px #707070;
+        transition: all 0.2s;
+        // &:hover{
+        //     border-bottom: solid 3px $accent;
+        // }
     }
 }
 
