@@ -2,6 +2,7 @@ const productList = document.getElementById("products");
 const filters = document.getElementsByClassName("filter__btn");
 const minifilters = document.getElementsByClassName("minifilter__btn");
 const filter = document.getElementById("filter");
+const filter__btn = document.querySelector(".minifilter__menu");
 
 let product;
 fetch("./js/products.json")
@@ -32,7 +33,8 @@ document.addEventListener("click", (e) => {
     }
     if(e.target && e.target.matches("h4.minifilter__btn")){
         e.target.classList.add("active");
-        filter.classList.toggle("active");
+        filter.classList.remove("active");
+        filter__btn.classList.remove("active");
     }
 
     if(e.target && e.target.matches("i.minifilter__menu")){
