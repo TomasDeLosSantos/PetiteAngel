@@ -6,7 +6,8 @@
   margin: 0; }
 
 html, body {
-  font-family: 'Montserrat', sans-serif; }
+  font-family: 'Montserrat', sans-serif;
+  position: relative; }
 
 body {
   line-height: 1.5;
@@ -26,7 +27,8 @@ header {
   position: sticky;
   top: 0px;
   z-index: 100;
-  background-color: #fff; }
+  background-color: #fff;
+  box-shadow: 0 3px 6px #00000029; }
 
 .nav {
   display: flex;
@@ -83,6 +85,18 @@ header {
       color: #707070; }
     .mininav__item:hover {
       border-bottom: solid 3px #512D48; }
+
+.hover__wp {
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 1.8rem;
+  color: #fff;
+  background-color: #4AAE20;
+  padding: 0.3rem 0.8rem;
+  border-radius: 100%;
+  z-index: 100; }
 
 .hero {
   background-image: url("assets/hero__bg.jpg");
@@ -178,7 +192,8 @@ header {
   max-width: 450px;
   padding: 1rem;
   box-shadow: 0 5px 11px #00000029;
-  margin: 1rem auto 2rem auto; }
+  margin: 1rem auto 2rem auto;
+  border-radius: 5px; }
   .card__img {
     width: 470px;
     border-radius: 5px; }
@@ -205,6 +220,7 @@ header {
     color: #fff;
     padding: 0.5rem 1.5rem;
     text-align: left;
+    text-decoration: none;
     cursor: pointer; }
     .card__btn:hover {
       background-color: #381830; }
@@ -381,6 +397,8 @@ header {
       background-color: #512D48;
       bottom: -10px;
       left: 0; }
+  .hover__wp {
+    display: block; }
   .hero {
     background-position: left; }
     .hero__cont {

@@ -59,7 +59,6 @@ document.addEventListener("click", (e) => {
 const createCard = (product) => {
     const cont = document.createElement("div");
     cont.classList.add("card");
-    cont.classList.add("splide__slide");
     const img = document.createElement("img");
     img.classList.add("card__img");
     img.setAttribute("src", product.img);
@@ -69,8 +68,9 @@ const createCard = (product) => {
     const sub = document.createElement("h3");
     sub.classList.add("card__sub");
     sub.innerText = product.sub;
-    const button = document.createElement("button");
-    button.setAttribute("href", "#");
+    const button = document.createElement("a");
+    button.setAttribute("target", "_blank");
+    button.setAttribute("href", product.link == "" ? "#" : product.link);
     button.classList.add("card__btn");
     const p = document.createElement("p");
     p.innerText = "Comprar producto";

@@ -32,7 +32,7 @@
     padding: 1rem;
     box-shadow: 0 5px 11px #00000029;
     margin: 1rem auto 2rem auto;
-
+    border-radius: 5px;
     &__img{
         width: 470px;
         border-radius: 5px;
@@ -60,6 +60,7 @@
         color: #fff;
         padding: 0.5rem 1.5rem;
         text-align: left;
+        text-decoration: none;
         cursor: pointer;
         &:hover{
             background-color: #381830;

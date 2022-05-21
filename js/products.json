@@ -3,6 +3,7 @@
         "title": "Exfoliante Corporal\nDe Frutos Rojos",
         "sub": "Exfoliante en spray",
         "img": "./assets/exfoliante-frutosrojosspray.webp",
+        "link": "",
         "highlight": true,
         "type": "exfol"
     },
@@ -10,6 +11,7 @@
         "title": "Acondicionador\nDe Cacao",
         "sub": "Acondicionador Sólido",
         "img": "./assets/acondicionador-cacao.webp",
+        "link": "",
         "highlight": true,
         "type": "acc"
     },
@@ -17,6 +19,7 @@
         "title": "Acondicionador\nDe Coco",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-coco.webp",
+        "link": "",
         "highlight": true,
         "type": "acc"
     },
@@ -24,6 +27,7 @@
         "title": "Acondicionador\nDe Frutos Rojos",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-frutosrojos.webp",
+        "link": "",
         "highlight": false,
         "type": "acc"
     },
@@ -31,6 +35,7 @@
         "title": "Acondicionador\nDe Lavanda",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-lavanda.webp",
+        "link": "",
         "highlight": false,
         "type": "acc"
     },
@@ -38,6 +43,7 @@
         "title": "Eco Kit de Frutos Rojos\nCon Vela",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-frutosrojosvela.webp",
+        "link": "",
         "highlight": false,
         "type": "kit"
     },
@@ -45,6 +51,7 @@
         "title": "Jabón Facial\nDe Carbón Activado",
         "sub": "Jabón facial",
         "img": "./assets/jabon-art-carbon.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -52,6 +59,7 @@
         "title": "Jabón Facial\nDe Arcilla Rosa",
         "sub": "Jabón facial",
         "img": "./assets/jabon-facial-arcillarosa.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -59,6 +67,7 @@
         "title": "Jabón Facial\nDe Miel y Avena",
         "sub": "Jabón facial",
         "img": "./assets/jabon-facial-miel.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -66,6 +75,7 @@
         "title": "Jabón Corporal\nDe Café y Canela",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-cafecanela.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -73,6 +83,7 @@
         "title": "Jabón Corporal\nDe Menta y Spirulina",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-mentaespirulina.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -80,6 +91,7 @@
         "title": "Shampoo\nDe Romero y Aloe",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-romeroaloe3.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -87,6 +99,7 @@
         "title": "Shampoo\nDe Eucalipto y Menta",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-eucaliptomenta.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -94,6 +107,7 @@
         "title": "Shampoo\nDe Frutos Rojos",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-frutosrojos.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -101,6 +115,7 @@
         "title": "Shampoo\nDe Lavanda y Caléndula",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-lavandacalendula.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -108,6 +123,7 @@
         "title": "Shampoo\nDe Linaza",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-linaza.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -115,6 +131,7 @@
         "title": "Shampoo De\nManzanilla y Caléndula",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-manzanillacalendula.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -122,6 +139,7 @@
         "title": "Shampoo\nDe Nopal y Aloe",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-nopalaloe.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -129,6 +147,7 @@
         "title": "Acondicionador\nDe Mango",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-mango.webp",
+        "link": "",
         "highlight": false,
         "type": "acc"
     },
@@ -136,6 +155,7 @@
         "title": "Balsamo Labial\nHumectante",
         "sub": "Chocolate, Miel o Cúrcuma",
         "img": "./assets/balsamo-labial.webp",
+        "link": "",
         "highlight": false,
         "type": "bal"
     },
@@ -143,6 +163,7 @@
         "title": "Desodorante Natural\nDe Cedro",
         "sub": "Desodorante",
         "img": "./assets/desodorante-cedro.webp",
+        "link": "",
         "highlight": false,
         "type": "des"
     },
@@ -150,6 +171,7 @@
         "title": "Desodorante Natural\nCítrico",
         "sub": "Desodorante",
         "img": "./assets/desodorante-citrico.webp",
+        "link": "",
         "highlight": false,
         "type": "des"
     },
@@ -157,6 +179,7 @@
         "title": "Desodorante Natural\nDe Lavanda y Limón",
         "sub": "Desodorante",
         "img": "./assets/desodorante-lavandalimon.webp",
+        "link": "",
         "highlight": false,
         "type": "des"
     },
@@ -164,6 +187,7 @@
         "title": "Gel Exfoliante\nDe Frutos Rojos",
         "sub": "Exfoliante en gel",
         "img": "./assets/exfoliante-frutosrojos.webp",
+        "link": "",
         "highlight": false,
         "type": "gel"
     },
@@ -171,6 +195,7 @@
         "title": "Jabón Corporal\nDe Café",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-cafe.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -178,6 +203,7 @@
         "title": "Jabón Artesanal\nDe Cúrcuma y Naranja",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-curcumanaranja.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -185,6 +211,7 @@
         "title": "Jabón Artesanal\nDe Caléndula",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-calendula.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -192,6 +219,7 @@
         "title": "Jabón Artesanal\nDe Aloe y Albahaca",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-aloealbahaca.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -199,6 +227,7 @@
         "title": "Jabón Artesanal\nDe Lavanda",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-lavanda.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -206,6 +235,7 @@
         "title": "Jabones Mini\n35gr",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-mini.webp",
+        "link": "",
         "highlight": false,
         "type": "jb"
     },
@@ -213,6 +243,7 @@
         "title": "5 Jabones\nArtesanales",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-5piezas.webp",
+        "link": "",
         "highlight": false,
         "type": "kit"
     },
@@ -220,6 +251,7 @@
         "title": "6 Jabones\nMini",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-6mini.webp",
+        "link": "",
         "highlight": false,
         "type": "kit"
     },
@@ -227,6 +259,7 @@
         "title": "DÜO Shampoo +\nAcondicionador",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-duo.webp",
+        "link": "",
         "highlight": false,
         "type": "kit"
     },
@@ -234,6 +267,7 @@
         "title": "Shampoo\nDe Manzanilla y Avena",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-manzanillaavena.webp",
+        "link": "",
         "highlight": false,
         "type": "sh"
     },
@@ -241,6 +275,7 @@
         "title": "Vela de Soya\nAroma Chocolate",
         "sub": "Vela",
         "img": "./assets/vela-chocolate.webp",
+        "link": "",
         "highlight": false,
         "type": "vela"
     },
@@ -248,6 +283,7 @@
         "title": "Vela de Soya\nAroma Cítrico",
         "sub": "Vela",
         "img": "./assets/vela-citrico.webp",
+        "link": "",
         "highlight": false,
         "type": "vela"
     },
@@ -255,6 +291,7 @@
         "title": "Vela de Soya\nAroma Vainilla",
         "sub": "Vela",
         "img": "./assets/vela-vainilla.webp",
+        "link": "",
         "highlight": false,
         "type": "vela"
     },
@@ -262,6 +299,7 @@
         "title": "Vela\nPara Masajes",
         "sub": "Vela",
         "img": "./assets/vela-masajes.webp",
+        "link": "",
         "highlight": false,
         "type": "vela"
     },
@@ -269,6 +307,7 @@
         "title": "Eco Kit\nDe Frutos Rojos",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-frutosrojos.webp",
+        "link": "",
         "highlight": false,
         "type": "kit"
     }
