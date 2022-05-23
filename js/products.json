@@ -3,7 +3,7 @@
         "title": "Exfoliante Corporal\nDe Frutos Rojos",
         "sub": "Exfoliante en spray",
         "img": "./assets/exfoliante-frutosrojosspray.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Exfoliante%20Corporal%20De%20Frutos%20Rojos",
         "highlight": true,
         "type": "exfol"
     },
@@ -11,7 +11,7 @@
         "title": "Acondicionador\nDe Cacao",
         "sub": "Acondicionador Sólido",
         "img": "./assets/acondicionador-cacao.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Acondicionador%5CnDe%20Cacao",
         "highlight": true,
         "type": "acc"
     },
@@ -19,7 +19,7 @@
         "title": "Acondicionador\nDe Coco",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-coco.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Acondicionador%20De%20Coco",
         "highlight": true,
         "type": "acc"
     },
@@ -27,7 +27,7 @@
         "title": "Acondicionador\nDe Frutos Rojos",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-frutosrojos.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Acondicionador%20De%20Frutos%20Rojos",
         "highlight": false,
         "type": "acc"
     },
@@ -35,7 +35,7 @@
         "title": "Acondicionador\nDe Lavanda",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-lavanda.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Acondicionador%20De%20Lavanda",
         "highlight": false,
         "type": "acc"
     },
@@ -43,7 +43,7 @@
         "title": "Eco Kit de Frutos Rojos\nCon Vela",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-frutosrojosvela.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Eco%20Kit%20de%20Frutos%20Rojos%20Con%20Vela",
         "highlight": false,
         "type": "kit"
     },
@@ -51,7 +51,7 @@
         "title": "Jabón Facial\nDe Carbón Activado",
         "sub": "Jabón facial",
         "img": "./assets/jabon-art-carbon.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Facial%20De%20Carb%C3%B3n%20Activado",
         "highlight": false,
         "type": "jb"
     },
@@ -59,7 +59,7 @@
         "title": "Jabón Facial\nDe Arcilla Rosa",
         "sub": "Jabón facial",
         "img": "./assets/jabon-facial-arcillarosa.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Facial%20De%20Arcilla%20Rosa",
         "highlight": false,
         "type": "jb"
     },
@@ -67,7 +67,7 @@
         "title": "Jabón Facial\nDe Miel y Avena",
         "sub": "Jabón facial",
         "img": "./assets/jabon-facial-miel.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Facial%20De%20Miel%20y%20Avena",
         "highlight": false,
         "type": "jb"
     },
@@ -75,7 +75,7 @@
         "title": "Jabón Corporal\nDe Café y Canela",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-cafecanela.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Corporal%20De%20Caf%C3%A9%20y%20Canela",
         "highlight": false,
         "type": "jb"
     },
@@ -83,7 +83,7 @@
         "title": "Jabón Corporal\nDe Menta y Spirulina",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-mentaespirulina.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Corporal%20De%20Menta%20y%20Spirulina",
         "highlight": false,
         "type": "jb"
     },
@@ -91,7 +91,7 @@
         "title": "Shampoo\nDe Romero y Aloe",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-romeroaloe3.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Romero%20y%20Aloe",
         "highlight": false,
         "type": "sh"
     },
@@ -99,7 +99,7 @@
         "title": "Shampoo\nDe Eucalipto y Menta",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-eucaliptomenta.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Eucalipto%20y%20Menta",
         "highlight": false,
         "type": "sh"
     },
@@ -107,7 +107,7 @@
         "title": "Shampoo\nDe Frutos Rojos",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-frutosrojos.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Frutos%20Rojos",
         "highlight": false,
         "type": "sh"
     },
@@ -115,7 +115,7 @@
         "title": "Shampoo\nDe Lavanda y Caléndula",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-lavandacalendula.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Lavanda%20y%20Cal%C3%A9ndula",
         "highlight": false,
         "type": "sh"
     },
@@ -123,7 +123,7 @@
         "title": "Shampoo\nDe Linaza",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-linaza.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Linaza",
         "highlight": false,
         "type": "sh"
     },
@@ -131,7 +131,7 @@
         "title": "Shampoo De\nManzanilla y Caléndula",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-manzanillacalendula.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Manzanilla%20y%20Cal%C3%A9ndula",
         "highlight": false,
         "type": "sh"
     },
@@ -139,7 +139,7 @@
         "title": "Shampoo\nDe Nopal y Aloe",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-nopalaloe.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Nopal%20y%20Aloe",
         "highlight": false,
         "type": "sh"
     },
@@ -147,7 +147,7 @@
         "title": "Acondicionador\nDe Mango",
         "sub": "Acondicionador sólido",
         "img": "./assets/acondicionador-mango.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Acondicionador%20De%20Mango",
         "highlight": false,
         "type": "acc"
     },
@@ -155,7 +155,7 @@
         "title": "Balsamo Labial\nHumectante",
         "sub": "Chocolate, Miel o Cúrcuma",
         "img": "./assets/balsamo-labial.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Balsamo%20Labial%20Humectante",
         "highlight": false,
         "type": "bal"
     },
@@ -163,7 +163,7 @@
         "title": "Desodorante Natural\nDe Cedro",
         "sub": "Desodorante",
         "img": "./assets/desodorante-cedro.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Desodorante%20Natural%20De%20Cedro",
         "highlight": false,
         "type": "des"
     },
@@ -171,7 +171,7 @@
         "title": "Desodorante Natural\nCítrico",
         "sub": "Desodorante",
         "img": "./assets/desodorante-citrico.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Desodorante%20Natural%20C%C3%ADtrico",
         "highlight": false,
         "type": "des"
     },
@@ -179,7 +179,7 @@
         "title": "Desodorante Natural\nDe Lavanda y Limón",
         "sub": "Desodorante",
         "img": "./assets/desodorante-lavandalimon.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Desodorante%20Natural%20De%20Lavanda%20y%20Lim%C3%B3n",
         "highlight": false,
         "type": "des"
     },
@@ -187,7 +187,7 @@
         "title": "Gel Exfoliante\nDe Frutos Rojos",
         "sub": "Exfoliante en gel",
         "img": "./assets/exfoliante-frutosrojos.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Gel%20Exfoliante%20De%20Frutos%20Rojos",
         "highlight": false,
         "type": "gel"
     },
@@ -195,7 +195,7 @@
         "title": "Jabón Corporal\nDe Café",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-exf-cafe.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Corporal%20De%20Caf%C3%A9",
         "highlight": false,
         "type": "jb"
     },
@@ -203,7 +203,7 @@
         "title": "Jabón Artesanal\nDe Cúrcuma y Naranja",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-curcumanaranja.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Artesanal%20De%20C%C3%BArcuma%20y%20Naranja",
         "highlight": false,
         "type": "jb"
     },
@@ -211,7 +211,7 @@
         "title": "Jabón Artesanal\nDe Caléndula",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-calendula.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Artesanal%20De%20Cal%C3%A9ndula",
         "highlight": false,
         "type": "jb"
     },
@@ -219,7 +219,7 @@
         "title": "Jabón Artesanal\nDe Aloe y Albahaca",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-aloealbahaca.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Artesanal%20De%20Aloe%20y%20Albahaca",
         "highlight": false,
         "type": "jb"
     },
@@ -227,7 +227,7 @@
         "title": "Jabón Artesanal\nDe Lavanda",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-art-lavanda.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jab%C3%B3n%20Artesanal%20De%20Lavanda",
         "highlight": false,
         "type": "jb"
     },
@@ -235,7 +235,7 @@
         "title": "Jabones Mini\n35gr",
         "sub": "Jabón corporal",
         "img": "./assets/jabon-mini.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Jabones%20Mini%2035gr",
         "highlight": false,
         "type": "jb"
     },
@@ -243,7 +243,7 @@
         "title": "5 Jabones\nArtesanales",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-5piezas.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%205%20Jabones%20Artesanales",
         "highlight": false,
         "type": "kit"
     },
@@ -251,7 +251,7 @@
         "title": "6 Jabones\nMini",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-6mini.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%206%20Jabones%20Mini",
         "highlight": false,
         "type": "kit"
     },
@@ -259,7 +259,7 @@
         "title": "DÜO Shampoo +\nAcondicionador",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-duo.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20D%C3%9CO%20Shampoo%20Acondicionador",
         "highlight": false,
         "type": "kit"
     },
@@ -267,7 +267,7 @@
         "title": "Shampoo\nDe Manzanilla y Avena",
         "sub": "Shampoo sólido",
         "img": "./assets/shampoo-manzanillaavena.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Shampoo%20De%20Manzanilla%20y%20Avena",
         "highlight": false,
         "type": "sh"
     },
@@ -275,7 +275,7 @@
         "title": "Vela de Soya\nAroma Chocolate",
         "sub": "Vela",
         "img": "./assets/vela-chocolate.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Vela%20de%20Soya%20Aroma%20Chocolate",
         "highlight": false,
         "type": "vela"
     },
@@ -283,7 +283,7 @@
         "title": "Vela de Soya\nAroma Cítrico",
         "sub": "Vela",
         "img": "./assets/vela-citrico.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Vela%20de%20Soya%20Aroma%20C%C3%ADtrico",
         "highlight": false,
         "type": "vela"
     },
@@ -291,7 +291,7 @@
         "title": "Vela de Soya\nAroma Vainilla",
         "sub": "Vela",
         "img": "./assets/vela-vainilla.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Vela%20de%20Soya%20Aroma%20Vainilla",
         "highlight": false,
         "type": "vela"
     },
@@ -299,7 +299,7 @@
         "title": "Vela\nPara Masajes",
         "sub": "Vela",
         "img": "./assets/vela-masajes.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Vela%20Para%20Masajes",
         "highlight": false,
         "type": "vela"
     },
@@ -307,7 +307,7 @@
         "title": "Eco Kit\nDe Frutos Rojos",
         "sub": "Eco Kit",
         "img": "./assets/ecokit-frutosrojos.webp",
-        "link": "",
+        "link": "https://api.whatsapp.com/send?phone=5215527387980&text=Quiero%20comprar%20Eco%20Kit%20De%20Frutos%20Rojos",
         "highlight": false,
         "type": "kit"
     }
